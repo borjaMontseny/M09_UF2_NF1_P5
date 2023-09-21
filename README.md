@@ -11,6 +11,10 @@ En aquesta pràctica cal generar una pàgina web senzilla que contingui quatre v
 
 Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
 
+## Imatge Original Utilitzada
+
+![Imatge Original](https://raw.githubusercontent.com/borjaMontseny/M09_UF2_NF1_P5/main/fotoOcell.png)
+
 ## Entrega
 
 L’entrega serà a través d’un repositori públic Git, fent la tramesa de la pràctica amb:
