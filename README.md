@@ -11,7 +11,7 @@ En aquesta pràctica cal generar una pàgina web senzilla que contingui quatre v
 
 Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
 
-## Imatge Original Utilitzada
+## Imatge original utilitzada
 
  <div align="center">
 
