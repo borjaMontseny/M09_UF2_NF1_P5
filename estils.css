@@ -1,0 +1,12 @@
+/* borjaMontseny DAW2 M09 2023 */
+table {
+    height: 90%;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
