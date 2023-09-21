@@ -13,7 +13,9 @@ Podeu fer servir qualsevol framework CSS, si ho creieu convenient.
 
 ## Imatge Original Utilitzada
 
+<div style="text-align:center;">
 ![Imatge Original](https://raw.githubusercontent.com/borjaMontseny/M09_UF2_NF1_P5/main/fotoOcell.png)
+</div>
 
 ## Entrega
 
