@@ -5,8 +5,18 @@ table {
 }
 
 table,
-th,
 td {
     border: 1px solid black;
     text-align: center;
+}
+
+@media (max-width: 600px) {
+    table, tr, td {
+        display: block;
+        width: 100%;
+    }
+
+    td {
+        margin-bottom: 10px;
+    }
 }
