@@ -1,10 +1,15 @@
-/* borjaMontseny DAW2 M09 2023 */
 body {
+    margin: 0;
+    padding: 0;
     background-color: powderblue;
 }
 
+h2 {
+    margin: 10px;
+}
+
 table {
-    height: 90%;
+    width: 100%;
     border-collapse: collapse;
 }
 
@@ -14,8 +19,17 @@ td {
     text-align: center;
 }
 
-@media (max-width: 600px) {
+table img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
 
+td {
+    padding: 10px;
+}
+
+@media (max-width: 650px) {
     table,
     tr,
     td {
